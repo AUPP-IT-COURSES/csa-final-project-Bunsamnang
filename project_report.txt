@@ -76,7 +76,7 @@ no message if the answer selected is right or wrong
 + After Modification:
 A result message at the end of the quiz, Have homepage, Modified Next button, Quit button, 
 questions are always in a randomized order everytime users tried doing it again, view correct answer button,
-a timer for every question, a message uf the answer selected is right or wrong
+a timer for every question, a message if the answer selected is right or wrong
 
 -Code Implementation:
 The multiple-choice quiz project is implemented using the Python programming language. 
