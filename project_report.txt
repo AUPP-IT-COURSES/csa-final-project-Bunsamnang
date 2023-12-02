@@ -68,6 +68,15 @@ their number of right and wrong answer.
 8. Scoring System: The project implements a scoring system that calculates and displays the user's score based on their answers. 
 Each correct answer contributes to the total score.
 
+-Before Modification vs After Modification
++ Before Modification:
+A result message at the end of the quiz, Next button, Quit button, questions are always in the same order even when we tried doing a second time, 
+no message if the answer selected is right or wrong
+
++ After Modification:
+A result message at the end of the quiz, Have homepage, Modified Next button, Quit button, 
+questions are always in a randomized order everytime users tried doing it again, view correct answer button,
+a timer for every question, a message uf the answer selected is right or wrong
 
 -Code Implementation:
 The multiple-choice quiz project is implemented using the Python programming language. 
@@ -75,6 +84,7 @@ Python provides a wide range of tools and libraries that can be utilized to enha
 The code includes functions and classes to handle user interactions, manage timers, retrieve questions, validate user answers, 
 calculate scores, control the progression to the next question, and determine eligibility to view correct answers. 
 The code is structured and organized to ensure readability, maintainability, and modularity.
+
 
 -Code testing/debugging
 Thorough testing and debugging are essential to ensure the functionality and reliability of the multiple-choice quiz project. 
@@ -96,6 +106,7 @@ In conclusion, the multiple-choice quiz project implemented in Python offers an 
 versatility, and wide range of libraries and tools contribute to the flexibility and functionality of theproject. The inclusion of features such as timers, 
 next button, quit button, and view correct answer button enhances user engagement, promotes time management skills, and facilitates learning from mistakes. 
 Thorough implementation, testing, and evaluation ensure the functionality and reliability of the project.
+
 
 For future development, some possible ideas include:
 1. User Authentication: Adding user authentication features to enable personalized quiz experiences and user profiles.
